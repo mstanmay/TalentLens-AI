@@ -1,0 +1,6 @@
+{
+  "name": "TalentLens AI — Resume Screening & Job Matching",
+  "description": "AI-powered resume screening, TF-IDF cosine similarity matching, skill gap analysis, and candidate shortlisting dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
